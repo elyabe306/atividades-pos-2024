@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT cardapio (prato+)>
+<!ELEMENT prato (nome, descr, ingr, preco, caloria, tempo)>
+<!ATTLIST PRATO id ID #REQUIRED>
