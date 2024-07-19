@@ -10,9 +10,15 @@
             A carne adocicada de tanajura frita em banha de porco com pimenta do reino numa fatia de tapioca feita tradicionalmente
         </descr>
         <ingr>
-            Tanajura, pimenta do reino, goma, manteiga, banha de porco
+            <ing>Tanajura</ing>
+            <ing>pimenta do reino</ing>
+            <ing>banha de porco</ing>
+            <ing>goma</ing>
+            <ing>manteiga</ing>
+            <ing>sal</ing>
         </ingr>
-        <preco>
+        <preco moeda="BRL">
+
             5,00
         </preco>
         <caloria>
@@ -30,9 +36,13 @@
             Tejo inteiro cozido deliciosamente
         </descr>
         <ingr>
-            Tejo, cebola, pimentão, pimenta do reino
+            <ing>tejo</ing>
+            <ing>cebola</ing>
+            <ing>pimentão</ing>
+            <ing>pimenta do reino</ing>
         </ingr>
-        <preco>
+        <preco moeda="BRL">
+
             90,00
         </preco>
         <caloria>
@@ -50,9 +60,14 @@
             Uma sopa tentadora e diferente, gostosíssima
         </descr>
         <ingr>
-            Cebola, vinho branco, pimenta do reino, farinha de milho, lemon pepper
+            <ing>cebola</ing>
+            <ing>vinho branco</ing>
+            <ing>pimenta do reino</ing>
+            <ing>farinha de milho</ing>
+            <ing>lemon pepper</ing>
+
         </ingr>
-        <preco>
+        <preco moeda="BRL">
             20,00
         </preco>
         <caloria>
@@ -76,9 +91,12 @@
             e que faz parte de muitas receitas da cozinha paraense.
         </descr>
         <ingr>
-            Pato, tucupi, pimenta do reino
+            <ing>pato</ing>
+            <ing>tucupi</ing>
+            <ing>pimenta do reino</ing>
         </ingr>
-        <preco>
+        <preco moeda="BRL">
+
             100,00
         </preco>
         <caloria>
@@ -96,9 +114,11 @@
             Pão assado
         </descr>
         <ingr>
-            Pão e manteiga
+            <ing>pão</ing>
+            <ing>manteiga</ing>
         </ingr>
-        <preco>
+        <preco moeda="BRL">
+
             1,00
         </preco>
         <caloria>
