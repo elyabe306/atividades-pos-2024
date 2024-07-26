@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cardapio>
+    
+    <prato xmlns="http/prato.:/org" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://prato.org cardapio.xsd">
+        <nome>
+            Tanajura c/Tapioca
+        </nome>
+        <descr>
+            A carne adocicada de tanajura frita em banha de porco com pimenta do reino numa fatia de tapioca feita tradicionalmente
+        </descr>
+        <ingr>
+            <ing>Tanajura</ing>
+            <ing>pimenta do reino</ing>
+            <ing>banha de porco</ing>
+            <ing>goma</ing>
+            <ing>manteiga</ing>
+            <ing>sal</ing>
+        </ingr>
+        <preco moeda="BRL">
+
+            5,00
+        </preco>
+        <caloria>
+            600 
+        </caloria>
+        <tempo>
+            5 minutos
+        </tempo>
+    </prato>
+    <prato id="te">
+        <nome>
+            Tejo cozido
+        </nome>
+        <descr>
+            Tejo inteiro cozido deliciosamente
+        </descr>
+        <ingr>
+            <ing>tejo</ing>
+            <ing>cebola</ing>
+            <ing>pimentão</ing>
+            <ing>pimenta do reino</ing>
+        </ingr>
+        <preco moeda="BRL">
+
+            90,00
+        </preco>
+        <caloria>
+            900
+        </caloria>
+        <tempo>
+            1 hora
+        </tempo>
+    </prato>
+    <prato id="sc">
+        <nome>
+            Sopa de Cebola
+        </nome>
+        <descr>
+            Uma sopa tentadora e diferente, gostosíssima
+        </descr>
+        <ingr>
+            <ing>cebola</ing>
+            <ing>vinho branco</ing>
+            <ing>pimenta do reino</ing>
+            <ing>farinha de milho</ing>
+            <ing>lemon pepper</ing>
+
+        </ingr>
+        <preco moeda="BRL">
+            20,00
+        </preco>
+        <caloria>
+            700
+        </caloria>
+        <tempo>
+            1 hora
+        </tempo>
+    </prato>
+    <prato id="pt">
+        <nome>
+            Pato no Tucupi
+        </nome>
+        <descr>
+            Comer pato é coisa comum no Pará, e o pato no tucupi está sempre na mesa em dias de festa. 
+            É considerado o prato que não pode faltar no círio de Nazaré, uma das maiores festas religiosas do país. 
+            Existem muitos criadores de pato no Pará, alguns apuram a raça a partir de vários cruzamentos, 
+            inclusive com patos selvagens, a carne é escura e firme preparado com vários temperos, 
+            o pato é assado cortado em pedaços e mergulhado no tucupi, um caldo amarelo extraído da mandioca, 
+            o último toque vem do jambu, planta picante que provoca ligeira dormência na boca 
+            e que faz parte de muitas receitas da cozinha paraense.
+        </descr>
+        <ingr>
+            <ing>pato</ing>
+            <ing>tucupi</ing>
+            <ing>pimenta do reino</ing>
+        </ingr>
+        <preco moeda="BRL">
+
+            100,00
+        </preco>
+        <caloria>
+            666
+        </caloria>
+        <tempo>
+            2 horas
+        </tempo>
+    </prato>
+    <prato id="pa">
+        <nome>
+            Pão assado
+        </nome>
+        <descr>
+            Pão assado
+        </descr>
+        <ingr>
+            <ing>pão</ing>
+            <ing>manteiga</ing>
+        </ingr>
+        <preco moeda="BRL">
+
+            1,00
+        </preco>
+        <caloria>
+            200
+        </caloria>
+        <tempo>
+            1 minuto
+        </tempo>
+    </prato>
+</cardapio>
