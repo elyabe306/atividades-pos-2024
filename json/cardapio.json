@@ -1,0 +1,88 @@
+{
+    "cardapio":
+        [
+            {"nome":"Tanajura com Tapioca",
+            "ID":"TT",
+            "descrição":"A carne adocicada de tanajura frita em banha de porco com pimenta do reino numa fatia de tapioca feita tradicionalmente",
+            "ingredientes":{
+                "Tanajura":"Tanajura",
+                "Sal":"Sal",
+                "PimentadoReino": "PimentadoReino",
+                "Goma":"Goma"
+                },
+            "preco": {
+                "valor":"5.00",
+                "moeda":"BRL"
+            },
+            "caloria":600,
+            "tempo":"5 MIN"
+            
+            },
+            {"nome":"Tejo",
+            "ID":"TT",
+            "descrição":"Tejo Cozido",
+            "ingredientes":{
+                "Tejo":"Tanajura",
+                "Cebola":"Sal",
+                "Pimentão": "Pimentão",
+                "PimentadoReino":"PimentadoReino"
+                },
+            "preco": {
+                "valor":"90.00",
+                "moeda":"BRL"
+            },
+            "caloria":900,
+            "tempo":"1 H"
+
+            },
+            {"nome":"Sopa de Cebola",
+            "ID":"Sc",
+            "descrição":"Uma sopa tentadora e diferente, gostosíssima",
+            "ingredientes":{
+                "Cebola":"Cebola",
+                "Vinho Branco":"Vinho Branco",
+                "PimentadoReino": "PimentadoReino",
+                "Farinha de Milho":"Farinha de Milho",
+                "Lemon Pepper":"Lemon Pepper"
+                },
+            "preco": {
+                "valor":"20.00",
+                "moeda":"BRL"
+            },
+            "caloria":700,
+            "tempo":"1 H"
+
+            },
+            {"nome":"Pato no Tucupi",
+            "ID":"PT",
+            "descrição":"Comer pato é coisa comum no Pará, e o pato no tucupi está sempre na mesa em dias de festa. É considerado o prato que não pode faltar no círio de Nazaré, uma das maiores festas religiosas do país. Existem muitos criadores de pato no Pará, alguns apuram a raça a partir de vários cruzamentos,inclusive com patos selvagens, a carne é escura e firme preparado com vários temperos, o pato é assado cortado em pedaços e mergulhado no tucupi, um caldo amarelo extraído da mandioca, o último toque vem do jambu, planta picante que provoca ligeira dormência na boca e que faz parte de muitas receitas da cozinha paraense.",
+            "ingredientes":{
+                "Pato":"Pato",
+                "Tucupi":"Tucupi",
+                "Pimenta": "Pimenta"
+                },
+            "preco": {
+                "valor":"100.00",
+                "moeda":"BRL"
+            },
+            "caloria":666,
+            "tempo":"2 H"
+
+            },
+            {"nome":"Pão Assado",
+            "ID":"PA",
+            "descrição":"Pão Assado",
+            "ingredientes":{
+                "Pão":"Pão",
+                "Manteiga":"Manteiga"
+                },
+            "preco": {
+                "valor":"1.00",
+                "moeda":"BRL"
+            },
+            "caloria":200,
+            "tempo":"1 MIN"
+
+            }
+        ]
+    }
