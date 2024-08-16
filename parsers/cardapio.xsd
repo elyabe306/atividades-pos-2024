@@ -1,0 +1,36 @@
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+xmlns:p="http://cartaodevisitas.org" 
+targetNamespace="http://cartaodevisitas.org" 
+elementFormDefault="qualified">
+
+  <element name="prato">
+    <complexType>
+      <sequence>
+        <element name="nome">
+          
+        </element>
+        <element name="descr">
+
+        </element>
+        <element name="ingr">
+          <complexType>
+            <sequence>
+              <element name="ing" type="string" minOccurs="1" maxOccurs="unbounded"/>
+            </sequence>
+          </complexType>
+        </element>
+        <element name="preco" type="decimal">
+
+        </element>
+        <element name="caloria" type="integer">
+
+        </element>
+        <element name="tempo">
+
+        </element>
+      </sequence>
+      <attribute name="id" type="integer" use="required"/>
+    </complexType>
+    
+  </element>
+</schema>
